@@ -1,8 +1,10 @@
 # RPAC Aquatic Center Occupancy
 
-_Last updated: 2026-04-28 01:48 ET_
+Wondering when is the best time to go swimming? This tracker collects live occupancy data from the **Recreation and Physical Activity Center (RPAC)** at **The Ohio State University** every 15 minutes and builds up a historical average so you can find the least crowded times to swim.
 
-Average occupancy % by day and hour (8am – 8pm).
+_Last updated: 2026-04-28 02:51 ET_
+
+Lower % = fewer people in the pool. Empty cells mean no data collected yet for that time slot.
 
 
 ## Aquatic Center - Class Pool
