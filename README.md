@@ -2,7 +2,7 @@
 
 Wondering when is the best time to go swimming? This tracker collects live occupancy data from the **Recreation and Physical Activity Center (RPAC)** at **The Ohio State University** every 15 minutes and builds up a historical average so you can find the least crowded times to swim.
 
-_Last updated: 2026-04-28 07:39 ET_
+_Last updated: 2026-04-28 08:16 ET_
 
 Lower % = fewer people in the pool. Empty cells mean no data collected yet for that time slot.
 
@@ -11,7 +11,7 @@ Lower % = fewer people in the pool. Empty cells mean no data collected yet for t
 
 | Hour | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 08:00 | 4.7% |  |  |  |  |  |  |
+| 08:00 | 4.7% | 15.6% |  |  |  |  |  |
 | 09:00 | 12.5% |  |  |  |  |  |  |
 | 10:00 | 0.0% |  |  |  |  |  |  |
 | 11:00 | 12.5% |  |  |  |  |  |  |
@@ -29,7 +29,7 @@ Lower % = fewer people in the pool. Empty cells mean no data collected yet for t
 
 | Hour | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 08:00 | 0.0% |  |  |  |  |  |  |
+| 08:00 | 0.0% | 0.0% |  |  |  |  |  |
 | 09:00 | 0.0% |  |  |  |  |  |  |
 | 10:00 | 0.0% |  |  |  |  |  |  |
 | 11:00 | 4.0% |  |  |  |  |  |  |
@@ -47,7 +47,7 @@ Lower % = fewer people in the pool. Empty cells mean no data collected yet for t
 
 | Hour | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 08:00 | 6.7% |  |  |  |  |  |  |
+| 08:00 | 6.7% | 26.7% |  |  |  |  |  |
 | 09:00 | 26.7% |  |  |  |  |  |  |
 | 10:00 | 0.0% |  |  |  |  |  |  |
 | 11:00 | 0.0% |  |  |  |  |  |  |
@@ -65,7 +65,7 @@ Lower % = fewer people in the pool. Empty cells mean no data collected yet for t
 
 | Hour | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 08:00 | 16.7% |  |  |  |  |  |  |
+| 08:00 | 16.7% | 20.8% |  |  |  |  |  |
 | 09:00 | 16.7% |  |  |  |  |  |  |
 | 10:00 | 29.2% |  |  |  |  |  |  |
 | 11:00 | 20.8% |  |  |  |  |  |  |
@@ -83,7 +83,7 @@ Lower % = fewer people in the pool. Empty cells mean no data collected yet for t
 
 | Hour | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 08:00 | 0.0% |  |  |  |  |  |  |
+| 08:00 | 0.0% | 0.0% |  |  |  |  |  |
 | 09:00 | 0.0% |  |  |  |  |  |  |
 | 10:00 | 0.0% |  |  |  |  |  |  |
 | 11:00 | 0.0% |  |  |  |  |  |  |
